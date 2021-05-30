@@ -1,12 +1,12 @@
 # tinify
 Tinify is image compresser from tiny png. This library create for Codeigniter 3
 
-#Installation
+# Installation
 for installation follow the step bellow
 <pre>git clone https://github.com/is01252/tinify.git</pre>
 move file Tiny_png.php on directory <b>libraries/</b>
 
-#Using
+# Using
 On controller file create this function.
 for example this function is for resize image
 <pre>
